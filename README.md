@@ -1,2 +1,2 @@
 # LuaGJK
-A dainty GJK implementation in Lua
+A dainty GJK implementation in Roblox's Luau
